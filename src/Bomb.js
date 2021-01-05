@@ -16,4 +16,4 @@ render(){
   //     </div>)
 }
 }
-export default
+export default Bomb
